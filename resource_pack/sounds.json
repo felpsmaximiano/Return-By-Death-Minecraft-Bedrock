@@ -1,0 +1,10 @@
+{
+  "subaru.death": {
+    "sounds": [
+      {
+        "name": "sounds/subaru_death",
+        "stream": false
+      }
+    ]
+  }
+}
